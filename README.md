@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nhat13
+- 👋 Hi, I’m Nguyen Duc Nhat
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning front-end 
 - 📫 How to reach me: fb https://www.facebook.com/Kroz1l3r
